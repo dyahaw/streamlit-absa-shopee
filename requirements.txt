@@ -3,7 +3,6 @@ numpy == 1.22.3
 pandas == 1.5.1
 pip == 23.2.1
 scikit-learn
-pickle
 Sastrawi
 nltk
 nlp_id
