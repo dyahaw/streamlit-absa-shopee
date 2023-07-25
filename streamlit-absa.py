@@ -68,7 +68,7 @@ def normalize_whitespace(content):
     return content.strip(" ")
 
 
-# nltk.download('punkt')
+nltk.download('punkt')
 
 
 def tokenisasi(content):
